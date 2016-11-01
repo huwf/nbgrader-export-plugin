@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: lti-export-plugin
+Version: 0.1
+Summary: OAuthenticator: Authenticate JupyterHub users with common OAuth providers.
+Home-page: UNKNOWN
+Author: Huw Fryer
+Author-email: UNKNOWN
+License: BSD
+Description: Adds support for JupyterHub authenticating with OAuth providers, including GitHub, Bitbucket, and more.
+Keywords: Interactive,Interpreter,Shell,Web
+Platform: Linux
+Platform: Mac OS X
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3

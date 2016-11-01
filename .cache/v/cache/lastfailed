@@ -1,0 +1,3 @@
+{
+  "tests/test_lti_export_plugin.py::TestNbGraderExportPlugin::()::test_assert_1_1": true
+}
